@@ -196,7 +196,7 @@ header{
  text-align: center;
 }
 
-index-container {
+.index-container {
   max-width: 1170px; 
   width: 100%;
   padding: 0 15px;
